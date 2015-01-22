@@ -31,7 +31,7 @@
     "highlight_modified_tabs": true,
     "ignored_packages":
     [
-        "Vintage"
+        // "Vintage"
     ],
     "indent_to_bracket": true,
     "line_padding_bottom": 0,
@@ -55,7 +55,7 @@
     "show_full_path": true,
     "show_minimap": false,
     "tab_size": 2,
-    "theme": "Flatland Dark.sublime-theme",
+    // "theme": "Flatland Dark.sublime-theme",
     "translate_tabs_to_spaces": true,
     "trim_trailing_white_space_on_save": true,
     "use_simple_full_screen": true,
